@@ -9,53 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8be5723-480a-45e4-84e0-30fb7230c374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/app/main/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/app/member/web/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/EgovComCrossSiteHndlr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/EgovComExcepHndlr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/EgovComOthersExcepHndlr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/EgovWebUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/config/EgovWebApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/context/EgovWebServletContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/filter/HTMLTagFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/filter/HTMLTagFilterRequestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/filter/SessionTimeoutCookieFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/service/EgovProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/service/impl/EgovComAbstractDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/util/EgovBasicLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/util/EgovResourceCloseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/util/EgovStringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/web/EgovBindingInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/studmng/egov/cmm/web/EgovMultipartResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/eGovProp/globals.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/mapper/config/mapper-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/mapper/studmng/member/member.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/spring/com/context-aspect.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/spring/com/context-common.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/spring/com/context-datasource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/spring/com/context-mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/edu/studmng/spring/com/context-transaction.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/egovframework/springmvc/egov-com-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/egovframework/tiles/tiles-define.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/member/memberMng.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/tiles/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/tiles/menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/tiles/tiles-layout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/code404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/code500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/member/memberMng.js" afterDir="false" />
+    <list default="true" id="d8be5723-480a-45e4-84e0-30fb7230c374" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,29 +53,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "a4e2ca26de9c1506f9e974d40902f86b"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a4e2ca26de9c1506f9e974d40902f86b&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/edu/studmng/mapper/studmng/member" />
@@ -226,8 +181,16 @@
       <updated>1673861707480</updated>
       <workItem from="1673861709674" duration="1542000" />
       <workItem from="1673866397088" duration="2298000" />
-      <workItem from="1675682150566" duration="297000" />
+      <workItem from="1675682150566" duration="626000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1675682503288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675682503288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,5 +206,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
