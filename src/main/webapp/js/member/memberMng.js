@@ -1,3 +1,3 @@
 $(function(){
-    alert('회원관리');
+    console.log("회원관리~~~!!!");
 })

@@ -328,7 +328,7 @@
     <build>
         <defaultGoal>install</defaultGoal>
         <directory>${basedir}/target</directory>
-        <finalName>snackworld</finalName>
+        <finalName>stud_mng</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
